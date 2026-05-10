@@ -35,7 +35,7 @@ export default function UploadSection({ onImageUpload }) {
       <div className="upload-inner">
         <div className="upload-header">
           <h2 className="section-title">Upload Face Image</h2>
-          <p className="section-subtitle">// DRAG & DROP OR CLICK TO SELECT</p>
+          <p className="section-subtitle">DRAG & DROP OR CLICK TO SELECT</p>
         </div>
 
         {!preview ? (
