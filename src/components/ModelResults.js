@@ -49,7 +49,7 @@ export default function ModelResults() {
       <div className="model-inner">
         <div className="model-header">
           <h2 className="section-title">Model Performance</h2>
-          <p className="section-subtitle">// MOBILENETV2 + FER2013 · LEMOS ET AL. 2026</p>
+          <p className="section-subtitle">MOBILENETV2 + FER2013 · LEMOS ET AL. 2026</p>
         </div>
 
         {/* Metric Cards */}
